@@ -13,6 +13,8 @@
 // 4. objects
 // 5. undefined
 
+// its work without recersion
+
 var stringifyJSON = function(obj) {
 	while (obj !== -1) {
 		if (typeof(obj) === "number") {
