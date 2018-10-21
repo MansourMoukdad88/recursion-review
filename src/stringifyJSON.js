@@ -13,7 +13,7 @@
 // 4. objects
 // 5. undefined
 
-// its work without recersion
+// Sprint One
 
 var stringifyJSON = function(obj) {
 	while (obj !== -1) {
